@@ -1,0 +1,1 @@
+Aplicacion para validar titulos y descripciones para SEO y que devuelva un slug, la aplicacion la haremos en python y será un api rest usando fastapi
